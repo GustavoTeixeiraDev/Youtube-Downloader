@@ -20,3 +20,13 @@ Abra um terminal no diretório do projeto.
 Execute o seguinte comando:
 
 python main.py
+
+## Uso
+Ao iniciar o aplicativo, uma janela será aberta.
+Cole o link do vídeo do YouTube na caixa de texto.
+Clique no botão "DOWNLOAD" para iniciar o processo de download.
+O status "DOWNLOADED" será exibido quando o download for concluído.
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas e enviar solicitações de pull.
+
+Nota: Certifique-se de respeitar os termos de serviço do YouTube ao usar este aplicativo para fazer download de vídeos.
